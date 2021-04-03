@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Пароль:"; ObjectID = "4kw-gm-5hM"; */
+"4kw-gm-5hM.text" = "Пароль:";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "fhd-m4-yYH"; */
+"fhd-m4-yYH.normalTitle" = "Войти";
+
+/* Class = "UILabel"; text = "Вконтакте"; ObjectID = "gRp-ks-JgR"; */
+"gRp-ks-JgR.text" = "Вконтакте";
+
+/* Class = "UILabel"; text = "Логин:"; ObjectID = "tZd-WC-THD"; */
+"tZd-WC-THD.text" = "Логин:";
