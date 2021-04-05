@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F267EC15-D5BB-462A-8D1F-85725F526897"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3827091C-7D85-4C09-9952-E2E1248E36AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vk/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3827091C-7D85-4C09-9952-E2E1248E36AF - 60a1647411f1e676"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LoginViewController.__deallocating_deinit"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiafrants/Desktop/vk/vk/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3827091C-7D85-4C09-9952-E2E1248E36AF - 43819f61a41901ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LoginViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; vk.LoginViewController"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiafrants/Desktop/vk/vk/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3827091C-7D85-4C09-9952-E2E1248E36AF - 12ec7e4433b8d21b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; vk.LoginViewController"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiafrants/Desktop/vk/vk/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "3827091C-7D85-4C09-9952-E2E1248E36AF - d5f8a3f766817db2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LoginViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;vk.LoginViewController&gt;"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiafrants/Desktop/vk/vk/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3827091C-7D85-4C09-9952-E2E1248E36AF - 72cf103bd858d5ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;vk.LoginViewController&gt;"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anastasiafrants/Desktop/vk/vk/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
